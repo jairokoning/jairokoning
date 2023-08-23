@@ -3,8 +3,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jairokoning/)
 [![Email](https://img.shields.io/badge/Email-jairo.koning@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&colorA=D14836&colorB=8BC0D0)]()
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jairokoning&show_icons=true&theme=radical&line_height=34)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairokoning&theme=radical&langs_count=4)](https://github.com/jairokoning/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jairokoning&show_icons=true&theme=radical&line_height=34)](https://github.com/jairokoning/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairokoning&theme=radical&langs_count=4)](https://github.com/jairokoning/)
 
 ## Technologies
 
