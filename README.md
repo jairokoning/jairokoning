@@ -6,6 +6,16 @@
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jairokoning&show_icons=true&theme=radical&line_height=34)](https://github.com/jairokoning/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairokoning&theme=radical&langs_count=4)](https://github.com/jairokoning/)
 
+<!-- [![My Github stats](https://github-readme-stats.vercel.app/api?username=jairokoning&show_icons=true&theme=radical&include_all_commits=false&count_private=true)](https://github.com/jairokoning/) -->
+
+<!--
+<div>
+  <a href="https://github.com/edenoscherer">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jairokoning&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairokoning&layout=compact&langs_count=8&theme=radical&hide=css"/>
+    </a>
+</div>
+-->
 ## Technologies
 
 <div style="display: inline_block"><br />
