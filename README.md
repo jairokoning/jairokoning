@@ -6,6 +6,8 @@
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jairokoning&show_icons=true&theme=radical&line_height=34)](https://github.com/jairokoning/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairokoning&theme=radical&langs_count=4)](https://github.com/jairokoning/)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=jairokoning&theme=dark)](https://git.io/streak-stats)
+
 <!-- [![My Github stats](https://github-readme-stats.vercel.app/api?username=jairokoning&show_icons=true&theme=radical&include_all_commits=false&count_private=true)](https://github.com/jairokoning/) -->
 
 <!--
