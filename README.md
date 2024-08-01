@@ -1,7 +1,9 @@
-### Hi! I'm Jairo Koning
+# Sobre Mim
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jairokoning/)
-[![Email](https://img.shields.io/badge/Email-jairo.koning@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&colorA=D14836&colorB=8BC0D0)]()
+### Olá! Eu sou Jairo Koning, desenvolvedor/engenheiro de software Node e React...
+Tenho mais de 5 anos de experiência em desenvolvimento web, com a maior parte focado em Node.js e React. Participei ativamente no desenvolvimento de projetos desde o planejamento até a entrega final. Possuo uma boa base de conhecimentos em TDD, SOLID e Clean Architecture, e estou constantemente aprimorando essas habilidades e buscando novos conhecimentos.
+
+# Dashboard
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jairokoning&show_icons=true&theme=radical&line_height=34)](https://github.com/jairokoning/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairokoning&theme=radical&langs_count=4)](https://github.com/jairokoning/)
@@ -18,7 +20,7 @@
     </a>
 </div>
 -->
-## Technologies
+# Tecnologias que utilizo no dia-a-dia
 
 <div style="display: inline_block"><br />
   <img
@@ -38,8 +40,53 @@
   />
   <img
     align="center"
+    alt="express"
+    src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white""
+  />  
+  <img
+    align="center"
+    alt="nestjs"
+    src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"
+  />
+  <img
+    align="center"
+    alt="prisma"
+    src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"
+  />
+  <img
+    align="center"
+    alt="postgres"
+    src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
+  />
+  <img
+    align="center"
+    alt="mongodb"
+    src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+  />
+  <img
+    align="center"
+    alt="redis"
+    src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"
+  />
+  <img
+    align="center"
+    alt="docker"
+    src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"
+  />
+  <img
+    align="center"
+    alt="rabbitmq"
+    src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"
+  />
+  <img
+    align="center"
     alt="react"
     src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+  />
+  <img
+    align="center"
+    alt="next"
+    src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
   />
   <img
     align="center"
@@ -50,20 +97,10 @@
     align="center"
     alt="css"
     src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-  />
+  />  
   <img
     align="center"
-    alt="postgres"
-    src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
-  />
-  <img
-    align="center"
-    alt="linux"
-    src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
-  />
-  <img
-    align="center"
-    alt="linux"
-    src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"
+    alt="tailwind"
+    src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
   />
 </div>
