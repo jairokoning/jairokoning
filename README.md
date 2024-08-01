@@ -41,7 +41,7 @@ Tenho mais de 5 anos de experiência em desenvolvimento web, com a maior parte f
   <img
     align="center"
     alt="express"
-    src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white""
+    src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"
   />  
   <img
     align="center"
@@ -58,6 +58,7 @@ Tenho mais de 5 anos de experiência em desenvolvimento web, com a maior parte f
     alt="postgres"
     src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
   />
+  <br />
   <img
     align="center"
     alt="mongodb"
