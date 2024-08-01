@@ -1,9 +1,9 @@
-# Sobre Mim
+# 👨 Sobre Mim
 
 ### Olá! Eu sou Jairo Koning, desenvolvedor/engenheiro de software Node e React...
 Tenho mais de 5 anos de experiência em desenvolvimento web, com a maior parte focado em Node.js e React. Participei ativamente no desenvolvimento de projetos desde o planejamento até a entrega final. Possuo uma boa base de conhecimentos em TDD, SOLID e Clean Architecture, e estou constantemente aprimorando essas habilidades e buscando novos conhecimentos.
 
-# Tecnologias que utilizo no dia-a-dia
+# 💻 Tecnologias que utilizo no dia-a-dia
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -21,12 +21,12 @@ Tenho mais de 5 anos de experiência em desenvolvimento web, com a maior parte f
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-# Meus projetos top da galáxia
+# 🧩 Meus projetos top da galáxia
 [![Style Cut Barber](https://github-readme-stats.vercel.app/api/pin/?username=jairokoning&repo=style-cut-barber)](https://github.com/jairokoning/style-cut-barber)
 [![interest-calculation](https://github-readme-stats.vercel.app/api/pin/?username=jairokoning&repo=interest-calculation-next)](https://github.com/jairokoning/interest-calculation-next)
 [![Interest Calc API](https://github-readme-stats.vercel.app/api/pin/?username=jairokoning&repo=interest-calculation-api)](https://github.com/jairokoning/interest-calculation-api)
 
-# Dashboard
+# 📊 Dashboard
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jairokoning&show_icons=true&theme=radical&line_height=34)](https://github.com/jairokoning/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairokoning&theme=radical&langs_count=4)](https://github.com/jairokoning/)
