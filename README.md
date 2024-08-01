@@ -14,7 +14,7 @@ Tenho mais de 5 anos de experiência em desenvolvimento web, com a maior parte f
 
 <!--
 <div>
-  <a href="https://github.com/edenoscherer">
+  <a href="https://github.com/jairokoning">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jairokoning&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairokoning&layout=compact&langs_count=8&theme=radical&hide=css"/>
     </a>
@@ -58,7 +58,8 @@ Tenho mais de 5 anos de experiência em desenvolvimento web, com a maior parte f
     alt="postgres"
     src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
   />
-  <br />
+</div>
+<div>
   <img
     align="center"
     alt="mongodb"
