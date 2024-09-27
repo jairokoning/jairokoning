@@ -23,6 +23,7 @@ Tenho mais de 5 anos de experiência em desenvolvimento web, com a maior parte f
 
 # 🧩 Meus projetos top da galáxia
 [![Style Cut Barber](https://github-readme-stats.vercel.app/api/pin/?username=jairokoning&repo=style-cut-barber)](https://github.com/jairokoning/style-cut-barber)
+[![Style Cut Barber](https://github-readme-stats.vercel.app/api/pin/?username=jairokoning&repo=goal-tracker)](https://github.com/jairokoning/goal-tracker)
 [![interest-calculation](https://github-readme-stats.vercel.app/api/pin/?username=jairokoning&repo=interest-calculation-next)](https://github.com/jairokoning/interest-calculation-next)
 [![Interest Calc API](https://github-readme-stats.vercel.app/api/pin/?username=jairokoning&repo=interest-calculation-api)](https://github.com/jairokoning/interest-calculation-api)
 
