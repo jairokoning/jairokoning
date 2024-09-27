@@ -22,10 +22,10 @@ Tenho mais de 5 anos de experiência em desenvolvimento web, com a maior parte f
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 # 🧩 Meus projetos top da galáxia
-[![Style Cut Barber](https://github-readme-stats.vercel.app/api/pin/?username=jairokoning&repo=style-cut-barber)](https://github.com/jairokoning/style-cut-barber)
-[![Goal Tracker](https://github-readme-stats.vercel.app/api/pin/?username=jairokoning&repo=goal-tracker)](https://github.com/jairokoning/goal-tracker)
-[![interest-calculation](https://github-readme-stats.vercel.app/api/pin/?username=jairokoning&repo=interest-calculation-next)](https://github.com/jairokoning/interest-calculation-next)
-[![Interest Calc API](https://github-readme-stats.vercel.app/api/pin/?username=jairokoning&repo=interest-calculation-api)](https://github.com/jairokoning/interest-calculation-api)
+[![Style Cut Barber](https://github-readme-stats.vercel.app/api/pin/?username=jairokoning&repo=style-cut-barber&theme=dark#gh-dark-mode-only)](https://github.com/jairokoning/style-cut-barber)
+[![Goal Tracker](https://github-readme-stats.vercel.app/api/pin/?username=jairokoning&repo=goal-tracker&theme=dark#gh-dark-mode-only)](https://github.com/jairokoning/goal-tracker)
+[![interest-calculation](https://github-readme-stats.vercel.app/api/pin/?username=jairokoning&repo=interest-calculation-next&theme=dark#gh-dark-mode-only)](https://github.com/jairokoning/interest-calculation-next)
+[![Interest Calc API](https://github-readme-stats.vercel.app/api/pin/?username=jairokoning&repo=interest-calculation-api&theme=dark#gh-dark-mode-only)](https://github.com/jairokoning/interest-calculation-api)
 
 # 📊 Dashboard
 
