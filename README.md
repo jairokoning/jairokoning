@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/jairokoning/jairokoning/refs/heads/main/laptop_coffee.webp" alt="laptop image" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/jairokoning/jairokoning/refs/heads/main/laptop_coffee.webp" alt="laptop image" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left">
 <h1>👨 Olá, Eu sou o Jairo!!!</h1>
@@ -20,12 +20,8 @@ Tenho mais de 6 anos de experiência em desenvolvimento web, sendo 5 anos com fo
     "frontend": ["React.js", "Next", "Tailwind"]
   },
   "expertises": [
-    "Desenvolvimento de APIs Rest",
-    "Integrações (Gateways de pagamento, marketplaces, transportadoras...)",
-    "Testes automatizados",
-    "Domain Driven Design",
-    "Clean Architecture",
-    "SOLID"
+    "Desenvolvimento de APIs Rest", "Integrações (Gateways de pagamento, marketplaces, transportadoras...)",
+    "Testes automatizados", "Domain Driven Design", "Clean Architecture", "SOLID"
   ],
   "open_to_work": true
 }
